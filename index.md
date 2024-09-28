@@ -1,9 +1,7 @@
-# John Doe
+# Laura Pellizzari
 
 **Email:** john.doe@example.com  
-**Phone:** +123 456 7890  
-**LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-**GitHub:** [github.com/johndoe](https://github.com/johndoe)  
+**Phone:** +123 456 7890   
 
 ---
 
